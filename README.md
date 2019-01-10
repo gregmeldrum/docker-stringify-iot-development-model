@@ -1,4 +1,4 @@
-# docker-stringify-iot-development-module
+# docker-stringify-iot-development-template
 A starting point for creating a dockerized development environment for stringify development template.
 
 - docker build -t stringify-dev:v1.0 .
