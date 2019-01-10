@@ -8,9 +8,9 @@ Steps:
 
 Now you can start developing your own stringify developer template.
 
-# Stringify Development Module
+# Stringify Developer Template Documentation
 
-For more information on the stringify developer template , see [stringify makers page](https://www.stringify.com/makers/) and look for *Developer Template*.
+For more information on the stringify developer template , see [stringify makers page](https://www.stringify.com/makers/) and look for *Developer Template*. It will direct you to the latest [docs](https://www.stringify.com/app/uploads/2017/06/Node-Developer-Module-Technical-Doc-rev-03.pdf).
 
 # Support from Stringify
 
